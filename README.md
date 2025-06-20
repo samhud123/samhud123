@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I'm a 20-year-old tech enthusiast<br>🏫 Currently pursuing my studies at Institut Widya Pratama<br>⚡ Passionate about learning and mastering programming languages<br>💻 Aspiring to become a professional web developer<br>🌱 Always eager to explore new technologies and frameworks<br>🚀 Working hard to turn ideas into real-world applications<br>📚 Believer in lifelong learning and continuous growth<br>🤝 Open to collaboration and exciting projects
+🙋‍♂️ I'm a 21-year-old tech enthusiast<br>🏫 Currently pursuing my studies at Institut Widya Pratama<br>⚡ Passionate about learning and mastering programming languages<br>💻 Aspiring to become a professional web developer<br>🌱 Always eager to explore new technologies and frameworks<br>🚀 Working hard to turn ideas into real-world applications<br>📚 Believer in lifelong learning and continuous growth<br>🤝 Open to collaboration and exciting projects
 
 
 ## 🌐 Socials:
